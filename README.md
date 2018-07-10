@@ -1,2 +1,1 @@
-# projecte
-Learning about tracking branch
+Fun with tracking branches
